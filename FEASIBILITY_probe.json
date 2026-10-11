@@ -1,0 +1,26 @@
+[
+    {
+        "no_proxy": {
+            "ok": 1,
+            "of": 5,
+            "detail": [
+                "dQw4w9WgXcQ OK 61 0.4s",
+                "jNQXAC9IVRw FAIL RequestBlocked",
+                "aircAruvnKk FAIL RequestBlocked",
+                "kJQP7kiw5Fk FAIL RequestBlocked",
+                "9bZkp7q19f0 FAIL RequestBlocked"
+            ]
+        },
+        "datacenter_auto": {
+            "ok": 4,
+            "of": 5,
+            "detail": [
+                "dQw4w9WgXcQ OK 61 1.1s",
+                "jNQXAC9IVRw OK 6 1.8s",
+                "aircAruvnKk OK 286 1.9s",
+                "kJQP7kiw5Fk OK 79 49.9s",
+                "9bZkp7q19f0 FAIL NoTranscriptFound"
+            ]
+        }
+    }
+]

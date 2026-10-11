@@ -1,0 +1,46 @@
+{
+  "responseContext": {
+    "visitorData": "CgtGaXh0dXJlRGF0YSiAgICABjIKCgJVUxIEGgAgOQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0
+  },
+  "playabilityStatus": {
+    "status": "LOGIN_REQUIRED",
+    "reason": "Sign in to confirm your age",
+    "errorScreen": {
+      "playerErrorMessageRenderer": {
+        "reason": {
+          "runs": [
+            {
+              "text": "Sign in to confirm your age"
+            }
+          ]
+        },
+        "subreason": {
+          "runs": [
+            {
+              "text": "This video may be inappropriate for some users."
+            }
+          ]
+        }
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0I=",
+    "desktopLegacyAgeGateReason": 1
+  },
+  "trackingParams": "CAAQu2kiEwjFixtureTrackingParams"
+}

@@ -1,0 +1,45 @@
+{
+  "responseContext": {
+    "visitorData": "CgtGaXh0dXJlRGF0YSiAgICABjIKCgJVUxIEGgAgOQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0
+  },
+  "playabilityStatus": {
+    "status": "ERROR",
+    "reason": "This video is unavailable",
+    "errorScreen": {
+      "playerErrorMessageRenderer": {
+        "reason": {
+          "runs": [
+            {
+              "text": "This video is unavailable"
+            }
+          ]
+        },
+        "subreason": {
+          "runs": [
+            {
+              "text": "Sorry about that."
+            }
+          ]
+        }
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0I="
+  },
+  "trackingParams": "CAAQu2kiEwjFixtureTrackingParams"
+}

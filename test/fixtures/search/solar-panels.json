@@ -1,0 +1,860 @@
+{
+  "responseContext": {
+    "visitorData": "CgtGaXh0dXJlRGF0YSiAgICABjIKCgJVUxIEGgAgOQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0,
+    "mainAppWebResponseContext": {
+      "loggedOut": true
+    }
+  },
+  "estimatedResults": "48200000",
+  "contents": {
+    "twoColumnSearchResultsRenderer": {
+      "primaryContents": {
+        "sectionListRenderer": {
+          "contents": [
+            {
+              "itemSectionRenderer": {
+                "contents": [
+                  {
+                    "videoRenderer": {
+                      "videoId": "kM3pLz8QwT0",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/kM3pLz8QwT0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/kM3pLz8QwT0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "How Solar Panels Actually Work (Explained Simply)"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "How Solar Panels Actually Work (Explained Simply) 9:12"
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "Bright Circuits",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCbrightCircuits000000a1",
+                                "canonicalBaseUrl": "/@brightcircuits"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "publishedTimeText": {
+                        "simpleText": "1 year ago"
+                      },
+                      "lengthText": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "9:12"
+                          }
+                        },
+                        "simpleText": "9:12"
+                      },
+                      "viewCountText": {
+                        "simpleText": "1,843,291 views"
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "kM3pLz8QwT0"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "Bright Circuits",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCbrightCircuits000000a1",
+                                "canonicalBaseUrl": "/@brightcircuits"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "1,843,291 views"
+                      },
+                      "badges": [
+                        {
+                          "metadataBadgeRenderer": {
+                            "style": "BADGE_STYLE_TYPE_SIMPLE",
+                            "label": "CC"
+                          }
+                        }
+                      ],
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "How does a flat piece of glass turn "
+                              },
+                              {
+                                "text": "solar",
+                                "bold": true
+                              },
+                              {
+                                "text": " energy into electricity? Photons, silicon, inverters ..."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "9:12"
+                            },
+                            "style": "DEFAULT"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "videoRenderer": {
+                      "videoId": "Q7tYp2LmXa1",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/Q7tYp2LmXa1/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/Q7tYp2LmXa1/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "Solar Panel Installation Start to Finish – DIY Guide"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "Solar Panel Installation Start to Finish – DIY Guide 27:45"
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "Off Grid Garage",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCoffGridGarage000000b2",
+                                "canonicalBaseUrl": "/@offgridgarage"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "publishedTimeText": {
+                        "simpleText": "8 months ago"
+                      },
+                      "lengthText": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "27:45"
+                          }
+                        },
+                        "simpleText": "27:45"
+                      },
+                      "viewCountText": {
+                        "simpleText": "612K views"
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "Q7tYp2LmXa1"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "Off Grid Garage",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCoffGridGarage000000b2",
+                                "canonicalBaseUrl": "/@offgridgarage"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "612K views"
+                      },
+                      "badges": [
+                        {
+                          "metadataBadgeRenderer": {
+                            "style": "BADGE_STYLE_TYPE_SIMPLE",
+                            "label": "4K"
+                          }
+                        },
+                        {
+                          "metadataBadgeRenderer": {
+                            "style": "BADGE_STYLE_TYPE_SIMPLE",
+                            "label": "CC"
+                          }
+                        }
+                      ],
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "Full DIY install of a 6 kW "
+                              },
+                              {
+                                "text": "solar panels",
+                                "bold": true
+                              },
+                              {
+                                "text": " array, racking, wiring and inspection."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "27:45"
+                            },
+                            "style": "DEFAULT"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "videoRenderer": {
+                      "videoId": "R2d9KfWq0Zc",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/R2d9KfWq0Zc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/R2d9KfWq0Zc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "Are Solar Panels Worth It in 2026? Real Numbers"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "Are Solar Panels Worth It in 2026? Real Numbers 14:03"
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "Energy Explained",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCenergyExplained0000c3",
+                                "canonicalBaseUrl": "/@energyexplained"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "publishedTimeText": {
+                        "simpleText": "3 weeks ago"
+                      },
+                      "lengthText": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "14:03"
+                          }
+                        },
+                        "simpleText": "14:03"
+                      },
+                      "viewCountText": {
+                        "simpleText": "98,402 views"
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "R2d9KfWq0Zc"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "Energy Explained",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCenergyExplained0000c3",
+                                "canonicalBaseUrl": "/@energyexplained"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "98,402 views"
+                      },
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "We crunch payback periods, net metering and battery costs for "
+                              },
+                              {
+                                "text": "solar panels",
+                                "bold": true
+                              },
+                              {
+                                "text": "."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "14:03"
+                            },
+                            "style": "DEFAULT"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "shelfRenderer": {
+                      "title": {
+                        "simpleText": "People also watched"
+                      },
+                      "content": {
+                        "verticalListRenderer": {
+                          "items": [
+                            {
+                              "videoRenderer": {
+                                "videoId": "Shelf0Vid01",
+                                "thumbnail": {
+                                  "thumbnails": [
+                                    {
+                                      "url": "https://i.ytimg.com/vi/Shelf0Vid01/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                                      "width": 360,
+                                      "height": 202
+                                    },
+                                    {
+                                      "url": "https://i.ytimg.com/vi/Shelf0Vid01/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                                      "width": 720,
+                                      "height": 404
+                                    }
+                                  ]
+                                },
+                                "title": {
+                                  "runs": [
+                                    {
+                                      "text": "People also watched: Tesla Powerwall review"
+                                    }
+                                  ],
+                                  "accessibility": {
+                                    "accessibilityData": {
+                                      "label": "People also watched: Tesla Powerwall review 18:02"
+                                    }
+                                  }
+                                },
+                                "longBylineText": {
+                                  "runs": [
+                                    {
+                                      "text": "Tech Home",
+                                      "navigationEndpoint": {
+                                        "browseEndpoint": {
+                                          "browseId": "UCtechHome00000000000f6",
+                                          "canonicalBaseUrl": "/@techhome"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                },
+                                "publishedTimeText": {
+                                  "simpleText": "2 years ago"
+                                },
+                                "lengthText": {
+                                  "accessibility": {
+                                    "accessibilityData": {
+                                      "label": "18:02"
+                                    }
+                                  },
+                                  "simpleText": "18:02"
+                                },
+                                "viewCountText": {
+                                  "simpleText": "3M views"
+                                },
+                                "navigationEndpoint": {
+                                  "watchEndpoint": {
+                                    "videoId": "Shelf0Vid01"
+                                  }
+                                },
+                                "ownerText": {
+                                  "runs": [
+                                    {
+                                      "text": "Tech Home",
+                                      "navigationEndpoint": {
+                                        "browseEndpoint": {
+                                          "browseId": "UCtechHome00000000000f6",
+                                          "canonicalBaseUrl": "/@techhome"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                },
+                                "shortViewCountText": {
+                                  "simpleText": "3M views"
+                                },
+                                "detailedMetadataSnippets": [
+                                  {
+                                    "snippetText": {
+                                      "runs": [
+                                        {
+                                          "text": "Powerwall review"
+                                        }
+                                      ]
+                                    },
+                                    "maxOneLine": false
+                                  }
+                                ],
+                                "thumbnailOverlays": [
+                                  {
+                                    "thumbnailOverlayTimeStatusRenderer": {
+                                      "text": {
+                                        "simpleText": "18:02"
+                                      },
+                                      "style": "DEFAULT"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ],
+                          "collapsedItemCount": 1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "videoRenderer": {
+                      "videoId": "LiveSol4r01",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/LiveSol4r01/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/LiveSol4r01/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "LIVE: Solar farm cam – real-time output"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "LIVE: Solar farm cam – real-time output "
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "SunWatch",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCsunWatch000000000000d4",
+                                "canonicalBaseUrl": "/@sunwatch"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "viewCountText": {
+                        "runs": [
+                          {
+                            "text": "1.2K"
+                          },
+                          {
+                            "text": " watching"
+                          }
+                        ]
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "LiveSol4r01"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "SunWatch",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCsunWatch000000000000d4",
+                                "canonicalBaseUrl": "/@sunwatch"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "1.2K"
+                      },
+                      "badges": [
+                        {
+                          "metadataBadgeRenderer": {
+                            "style": "BADGE_STYLE_TYPE_LIVE_NOW",
+                            "label": "LIVE"
+                          }
+                        }
+                      ],
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "24/7 live stream of a 5 MW "
+                              },
+                              {
+                                "text": "solar",
+                                "bold": true
+                              },
+                              {
+                                "text": " farm with live production data."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "LIVE"
+                            },
+                            "style": "LIVE"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "videoRenderer": {
+                      "videoId": "Tm8nB3vCx2Q",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/Tm8nB3vCx2Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/Tm8nB3vCx2Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "Monocrystalline vs Polycrystalline vs Thin Film"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "Monocrystalline vs Polycrystalline vs Thin Film 11:20"
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "Bright Circuits",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCbrightCircuits000000a1",
+                                "canonicalBaseUrl": "/@brightcircuits"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "publishedTimeText": {
+                        "simpleText": "2 years ago"
+                      },
+                      "lengthText": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "11:20"
+                          }
+                        },
+                        "simpleText": "11:20"
+                      },
+                      "viewCountText": {
+                        "simpleText": "455,120 views"
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "Tm8nB3vCx2Q"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "Bright Circuits",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCbrightCircuits000000a1",
+                                "canonicalBaseUrl": "/@brightcircuits"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "455,120 views"
+                      },
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "Which "
+                              },
+                              {
+                                "text": "solar panel",
+                                "bold": true
+                              },
+                              {
+                                "text": " type is best? Efficiency, cost and lifespan compared."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "11:20"
+                            },
+                            "style": "DEFAULT"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "videoRenderer": {
+                      "videoId": "Ws5pZ0jKe7Y",
+                      "thumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://i.ytimg.com/vi/Ws5pZ0jKe7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 360,
+                            "height": 202
+                          },
+                          {
+                            "url": "https://i.ytimg.com/vi/Ws5pZ0jKe7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLfixture",
+                            "width": 720,
+                            "height": 404
+                          }
+                        ]
+                      },
+                      "title": {
+                        "runs": [
+                          {
+                            "text": "Why Solar Panels Lose Efficiency in Heat"
+                          }
+                        ],
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "Why Solar Panels Lose Efficiency in Heat 4:58"
+                          }
+                        }
+                      },
+                      "longBylineText": {
+                        "runs": [
+                          {
+                            "text": "Physics Shorts",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCphysicsShorts00000000e5",
+                                "canonicalBaseUrl": "/@physicsshorts"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "publishedTimeText": {
+                        "simpleText": "5 years ago"
+                      },
+                      "lengthText": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "4:58"
+                          }
+                        },
+                        "simpleText": "4:58"
+                      },
+                      "viewCountText": {
+                        "simpleText": "2.3M views"
+                      },
+                      "navigationEndpoint": {
+                        "watchEndpoint": {
+                          "videoId": "Ws5pZ0jKe7Y"
+                        }
+                      },
+                      "ownerText": {
+                        "runs": [
+                          {
+                            "text": "Physics Shorts",
+                            "navigationEndpoint": {
+                              "browseEndpoint": {
+                                "browseId": "UCphysicsShorts00000000e5",
+                                "canonicalBaseUrl": "/@physicsshorts"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "shortViewCountText": {
+                        "simpleText": "2.3M views"
+                      },
+                      "detailedMetadataSnippets": [
+                        {
+                          "snippetText": {
+                            "runs": [
+                              {
+                                "text": "Temperature coefficients explained: why hot "
+                              },
+                              {
+                                "text": "solar panels",
+                                "bold": true
+                              },
+                              {
+                                "text": " produce less power."
+                              }
+                            ]
+                          },
+                          "maxOneLine": false
+                        }
+                      ],
+                      "thumbnailOverlays": [
+                        {
+                          "thumbnailOverlayTimeStatusRenderer": {
+                            "text": {
+                              "simpleText": "4:58"
+                            },
+                            "style": "DEFAULT"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "trackingParams": "CAAQuy8YAiITfixture"
+              }
+            },
+            {
+              "continuationItemRenderer": {
+                "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+                "continuationEndpoint": {
+                  "clickTrackingParams": "CAAQui8iEwfixture",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true,
+                      "apiUrl": "/youtubei/v1/search"
+                    }
+                  },
+                  "continuationCommand": {
+                    "token": "CONT_solar_p2",
+                    "request": "CONTINUATION_REQUEST_TYPE_SEARCH"
+                  }
+                }
+              }
+            }
+          ],
+          "trackingParams": "CAAQui8iEwfixture",
+          "subMenu": {},
+          "hideBottomSeparator": true,
+          "targetId": "search-feed"
+        }
+      }
+    }
+  },
+  "trackingParams": "CAAQ7VAiEwfixture",
+  "topbar": {},
+  "refinements": [
+    "solar panels on roof",
+    "how solar panels work",
+    "solar panels for home"
+  ]
+}

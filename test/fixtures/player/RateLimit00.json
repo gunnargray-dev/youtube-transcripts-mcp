@@ -1,0 +1,6 @@
+{
+  "__fixture": {
+    "status": 429,
+    "body": "<html><body>Too Many Requests</body></html>"
+  }
+}

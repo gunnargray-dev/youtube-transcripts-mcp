@@ -1,0 +1,72 @@
+{
+  "responseContext": {
+    "visitorData": "CgtGaXh0dXJlRGF0YSiAgICABjIKCgJVUxIEGgAgOQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "contextParams": "Q0FFU0FnZ0I="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "bitrate": 503567,
+        "width": 640,
+        "height": 360,
+        "qualityLabel": "360p"
+      }
+    ]
+  },
+  "videoDetails": {
+    "videoId": "NoCapt10n00",
+    "title": "Lo-fi Beats to Study To – 1 Hour Mix",
+    "lengthSeconds": "3600",
+    "keywords": [],
+    "channelId": "UCquietHours0000000000i9",
+    "isOwnerViewing": false,
+    "shortDescription": "One hour of calm lo-fi for focus.\n\nTracklist\n00:00 Rainy Window\n04:12 Late Train\n09:47 Paper Lanterns\n15:30 Slow Coffee\n22:05 City Lights (feat. Mira)\n31:58 Notebook Margins\n40:20 Last Bus Home\n52:44 Sunrise Tape\n\nAll tracks © Quiet Hours",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NoCapt10n00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      ]
+    },
+    "allowRatings": true,
+    "viewCount": "5120933",
+    "author": "Quiet Hours",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false
+  },
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": -1.2,
+      "perceptualLoudnessDb": -15.2,
+      "enablePerFormatLoudness": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwjFixtureTrackingParams"
+}

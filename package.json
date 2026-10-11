@@ -1,0 +1,48 @@
+{
+  "name": "youtube-transcripts-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for YouTube transcripts, search, chapters and extractive summaries. No API keys, no LLM.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "youtube-transcripts-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node -e \"require('fs').chmodSync('dist/index.js', 0o755)\"",
+    "start": "node dist/index.js",
+    "start:http": "node dist/index.js --http",
+    "test": "npm run build && npm run test:unit && npm run test:smoke",
+    "test:unit": "node --test test/unit/",
+    "test:smoke": "node test/smoke.mjs",
+    "fixtures": "node scripts/make-fixtures.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "youtube",
+    "transcript",
+    "captions",
+    "summary",
+    "chapters"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "apify": "^3.7.2",
+    "undici": "^6.29.0",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.9.3"
+  }
+}

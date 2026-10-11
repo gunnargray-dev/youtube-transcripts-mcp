@@ -1,0 +1,30 @@
+{
+  "responseContext": {
+    "visitorData": "CgtGaXh0dXJlRGF0YSiAgICABjIKCgJVUxIEGgAgOQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0
+  },
+  "playabilityStatus": {
+    "status": "LOGIN_REQUIRED",
+    "reason": "This video is private",
+    "messages": [
+      "This is a private video. Please sign in to verify that you may see it."
+    ],
+    "contextParams": "Q0FFU0FnZ0I="
+  },
+  "trackingParams": "CAAQu2kiEwjFixtureTrackingParams"
+}

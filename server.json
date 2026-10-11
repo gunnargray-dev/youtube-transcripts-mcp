@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gunnargray-dev/youtube-transcripts-mcp",
+  "title": "YouTube Transcripts",
+  "description": "YouTube transcripts (text, segments, SRT) with metadata, video search, chapters and summaries.",
+  "repository": {"url": "https://github.com/gunnargray-dev/youtube-transcripts-mcp", "source": "github"},
+  "websiteUrl": "https://apify.com/parallelstudio/youtube-transcripts-mcp",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://parallelstudio--youtube-transcripts-mcp.apify.actor/mcp",
+      "headers": [{"name": "Authorization", "description": "Bearer <your Apify API token>", "isRequired": true, "isSecret": true}]
+    }
+  ]
+}

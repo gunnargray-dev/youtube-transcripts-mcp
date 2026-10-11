@@ -1,0 +1,13 @@
+{
+  "actorSpecification": 1,
+  "name": "youtube-transcripts-mcp",
+  "title": "YouTube Transcripts MCP Server",
+  "description": "MCP server for AI agents: fetch YouTube transcripts (text, timestamped segments or SRT) with video metadata, search YouTube, get chapters, and build extractive summaries with timestamped key points. No API keys, no LLM costs. Works with Claude, Cursor and any MCP client.",
+  "version": "1.0",
+  "buildTag": "latest",
+  "usesStandbyMode": true,
+  "webServerMcpPath": "/mcp",
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "dockerfile": "../Dockerfile"
+}
