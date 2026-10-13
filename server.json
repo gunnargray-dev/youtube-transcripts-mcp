@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.gunnargray-dev/youtube-transcripts-mcp",
-  "title": "YouTube Transcripts",
-  "description": "YouTube transcripts (text, segments, SRT) with metadata, video search, chapters and summaries.",
+  "title": "YouTube Transcripts, Search & Summaries",
+  "description": "YouTube transcripts, video search, chapters and extractive summaries. No YouTube API key, no LLM.",
   "repository": {"url": "https://github.com/gunnargray-dev/youtube-transcripts-mcp", "source": "github"},
   "websiteUrl": "https://apify.com/parallelstudio/youtube-transcripts-mcp",
   "version": "1.0.0",
