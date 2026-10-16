@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" width="96" alt="YouTube Transcripts MCP logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gunnargray-dev/youtube-transcripts-mcp/main/assets/logo.png" width="96" alt="YouTube Transcripts MCP logo"></p>
 
 # YouTube Transcripts MCP Server
 
@@ -52,7 +52,7 @@ Failures come back as MCP tool errors (`isError: true`). The text starts with `E
 
 ## Pricing
 
-This Actor uses **pay-per-event** pricing. You pay only for successful tool calls. Failed calls are **not** charged, whether they fail on validation, because the video is private or has no captions, or because YouTube blocks the request. Current prices are on the Actor's **Pricing** tab.
+This Actor uses **pay-per-event** pricing. Tool events are charged only for successful tool calls. Failed calls are **not** charged as tool events, whether they fail on validation, because the video is private or has no captions, or because YouTube blocks the request. Apify also charges its standard **Actor start** event ($0.00005 per GB of memory, minimum one event) each time a server instance starts. At the default 512 MB standby memory that's $0.00005 per start, and one running instance serves many calls before it idles out. The **Pricing** tab on this Actor is the authoritative list of current prices.
 
 | Event | Price | When it's charged | Count |
 |---|---|---|---|
