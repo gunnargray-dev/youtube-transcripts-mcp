@@ -8,6 +8,8 @@
 
 Give your AI agent **YouTube transcripts, search, chapters and summaries**. This [MCP](https://modelcontextprotocol.io) server fetches the captions of any public YouTube video (as plain text, timestamped segments or SRT) together with its metadata. It also searches YouTube, returns chapters, and builds structured extractive summaries where every point links to the moment it comes from.
 
+**Worked examples:** four end-to-end workflows with prompts, tool calls, costs and real output are in [docs/workflows.md](docs/workflows.md).
+
 It works with Claude Desktop, Claude Code, Cursor, VS Code, Windsurf and any other client that supports MCP over Streamable HTTP. You don't need a YouTube API key or a Google account. No LLM runs on the server, so you don't pay for anyone else's tokens.
 
 ## What you can do with it
@@ -162,6 +164,15 @@ claude mcp add --transport http youtube-transcripts \
 - "Search for talks about Rust async from the last year, longer than 20 minutes and with subtitles, then summarize the top 3."
 - "Give me the chapters of this 3-hour livestream. If it has none, split it by topic."
 - "Export German subtitles for this video as SRT. Translate them if there's no German track."
+
+Four of these, with the exact tool calls, per-call costs and real output from live YouTube videos, are in [docs/workflows.md](docs/workflows.md):
+
+| Workflow | Tools | Cost per run |
+|---|---|---|
+| [Research a long talk and answer with timestamp citations](docs/workflows.md#1-research-a-long-talk-and-answer-with-timestamp-citations) | `get_transcript` | $0.005 |
+| [Search a topic and summarize the top results](docs/workflows.md#2-search-a-topic-and-summarize-the-top-results) | `search_videos` + 3 × `summarize_transcript` | $0.048 |
+| [Chapters for a long video that has none](docs/workflows.md#3-chapters-for-a-long-video-that-has-none) | `get_video_chapters` | $0.008 |
+| [Export subtitles as SRT, in another language](docs/workflows.md#4-export-subtitles-as-srt-in-another-language) | `get_transcript` | $0.005 |
 
 ## Example outputs
 
