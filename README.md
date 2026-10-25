@@ -352,6 +352,10 @@ src/
   util.ts        error codes, cache, id/URL parsing, time helpers
 ```
 
+## Related
+
+- [App Store & Google Play Review Intelligence MCP](https://apify.com/parallelstudio/app-store-review-intelligence-mcp): the same pay-per-call setup for app reviews. Your agent gets top complaints, rating by app version, regressions after a release, and side-by-side competitor comparisons for any iOS or Android app. Source: [GitHub](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp).
+
 ## License
 
 MIT
