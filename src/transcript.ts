@@ -9,8 +9,9 @@ export interface Segment {
   duration: number;
 }
 
+// YouTube often double-escapes caption text ("&amp;#39;"), so decode twice.
 const clean = (s: string) =>
-  decodeEntities(s.replace(/<[^>]*>/g, ""))
+  decodeEntities(decodeEntities(s.replace(/<[^>]*>/g, "")))
     .replace(/[​﻿]/g, "")
     .replace(/\s+/g, " ")
     .trim();
