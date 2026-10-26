@@ -5,7 +5,7 @@
   "description": "YouTube transcripts, video search, chapters and extractive summaries. No YouTube API key, no LLM.",
   "repository": {"url": "https://github.com/gunnargray-dev/youtube-transcripts-mcp", "source": "github"},
   "websiteUrl": "https://apify.com/parallelstudio/youtube-transcripts-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
